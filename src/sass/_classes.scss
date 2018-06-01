@@ -140,7 +140,7 @@
 				@include s-form-select-style($color);
 			}
 			/**
-			 * @name 	<span class="c-#{$color}">#{_start-case($color)}</span> ```.#{s-component()}-textear--#{$color}```
+			 * @name 	<span class="c-#{$color}">#{_start-case($color)}</span> ```.#{s-component()}-textarea--#{$color}```
 			 * @styleguide 		Forms / Textarea
 			 * @example 	html
 			 * <textarea class="#{s-component()}-textarea #{s-component()}-textarea--#{$color}" placeholder="Hello world"></textarea>

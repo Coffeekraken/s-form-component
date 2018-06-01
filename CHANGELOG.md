@@ -4,12 +4,12 @@
 
 _Full stack form styling with support of form-input, form-textarea, form-select, form-group and form-addon as well as colored versions of them..._
 
-## 1.0.1  ( Fri May 25 2018 14:55:27 GMT+0200 (CEST) )
+## 1.0.2  ( Fri Jun 01 2018 11:35:54 GMT+0200 (CEST) )
 
 
-## Features
-  - add changelog
-  ([9a39ed22](git@github.com:Coffeekraken/s-form-component/commit/9a39ed22b4d63d97c5ab701cf001c1c1cd126507))
+## Bug Fixes
+  - fix small typo
+  ([2de53ee3](git@github.com:Coffeekraken/s-form-component/commit/2de53ee3b3d108be90aaecba44b7f705eec1c3f2))
 
 
 
