@@ -1,9 +1,9 @@
 # Coffeekraken s-form-component <img src=".resources/coffeekraken-logo.jpg" height="25px" />
 
 <p>
-	<a href="https://travis-ci.org/coffeekraken/s-form-component">
+	<!-- <a href="https://travis-ci.org/coffeekraken/s-form-component">
 		<img src="https://img.shields.io/travis/coffeekraken/s-form-component.svg?style=flat-square" />
-	</a>
+	</a> -->
 	<a href="https://www.npmjs.com/package/coffeekraken-s-form-component">
 		<img src="https://img.shields.io/npm/v/coffeekraken-s-form-component.svg?style=flat-square" />
 	</a>
