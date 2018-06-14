@@ -4,12 +4,12 @@
 
 _Full stack form styling with support of form-input, form-textarea, form-select, form-group and form-addon as well as colored versions of them..._
 
-## 1.0.2  ( Fri Jun 01 2018 11:35:54 GMT+0200 (CEST) )
+## 1.0.3  ( Thu Jun 14 2018 21:05:09 GMT+0200 (CEST) )
 
 
 ## Bug Fixes
-  - fix small typo
-  ([2de53ee3](git@github.com:Coffeekraken/s-form-component/commit/2de53ee3b3d108be90aaecba44b7f705eec1c3f2))
+  - make the invalid form style appear only on dirty fields that have the [dirty] attribute
+  ([62939cd2](git@github.com:Coffeekraken/s-form-component/commit/62939cd2b83bdf8e37adf726229d343f660cf77a))
 
 
 
