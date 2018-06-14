@@ -114,8 +114,8 @@
 	@if ($color) {
 		@include s-form-field-color($color);
 	}
-	&:invalid,
-	&[invalid] {
+	&[dirty]:invalid,
+	&[dirty][invalid] {
 		border-color: s-color(error) !important;
 	}
 }
@@ -171,8 +171,8 @@
 	@if ($color) {
 		@include s-form-field-color($color);
 	}
-	&:invalid,
-	&[invalid] {
+	&[dirty]:invalid,
+	&[dirty][invalid] {
 		border-color: s-color(error) !important;
 	}
 }
@@ -196,8 +196,8 @@
 @mixin s-form-select-field-color($color) {
 	background-image: url(s-base64-icon(arrow-down, $color));
 
-	&:invalid,
-	&[invalid] {
+	&[dirty]:invalid,
+	&[dirty][invalid] {
 		background-image: url(s-base64-icon(arrow-down, error));
 	}
 }
@@ -241,8 +241,8 @@
 		@include s-form-field-color($color);
 		@include s-form-select-field-color($color);
 	}
-	&:invalid,
-	&[invalid] {
+	&[dirty]:invalid,
+	&[dirty][invalid] {
 		border-color: s-color(error) !important;
 	}
 }
