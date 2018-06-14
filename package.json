@@ -1,6 +1,6 @@
 {
   "name": "coffeekraken-s-form-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Full stack form styling with support of form-input, form-textarea, form-select, form-group and form-addon as well as colored versions of them...",
   "main": "dist/index.js",
   "homepage": "http://coffeekraken.io",
