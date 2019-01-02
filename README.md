@@ -29,6 +29,8 @@
 
 Full stack form styling with support of form-input, form-textarea, form-select, form-group and form-addon as well as colored versions of them...
 
+[![View demo](http://components.coffeekraken.io/assets/img/view-demo.png)](http://components.coffeekraken.io/app/s-form-component)
+
 ## Table of content
 
 1. **[Demo](http://components.coffeekraken.io/app/s-form-component)**

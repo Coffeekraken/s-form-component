@@ -25,7 +25,7 @@ module.exports = {
 					Coffeekraken s-form-component
 				</h1>
 				<p class="p m-b-bigger">
-					{component-description}
+					Full stack form styling with support of form-input, form-textarea, form-select, form-group and form-addon as well as colored versions of them...
 				</p>
 				<div class="form-group m-b">
 					<input type="text" name="firstname" class="form-input" placeholder="Firstname" />
